@@ -1,9 +1,9 @@
 package com.chinasoft.git;
 
 public class demo01 {
-
+        //éœ€è¦æ£€æŸ¥å†²çª
 	public static void main(String[] args) {
-		System.out.println("½ñÌìÌìÆøºÜºÃ");
+		System.out.println("Â½Ã±ÃŒÃ¬ÃŒÃ¬Ã†Ã¸ÂºÃœÂºÃƒ");
 	}
 
 }
