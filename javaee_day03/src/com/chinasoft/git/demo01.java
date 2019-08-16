@@ -1,9 +1,9 @@
 package com.chinasoft.git;
 
 public class demo01 {
-    //检查冲突
+    //检查冲突解决
 	public static void main(String[] args) {
-		System.out.println("今天天气很好");
+		System.out.println("陆帽脤矛脤矛脝酶潞脺潞脙");
 	}
 
 }
